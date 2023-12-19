@@ -1,11 +1,11 @@
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/cedev935?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=cedev935&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@cedev935's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heracles7&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/Heracles7?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=Heracles7&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@Heracles7's trophy stats"/>
   </a>
 </div>
 
-## 💬 Talk with me 
+## 💬 Talk with me
 
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
 
@@ -17,9 +17,10 @@
 
 💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
 
-
 ## 💫 My🌟BEST🌟 SKILLS
+
 ![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
+
 <p align="center">
 <table align="center">
   <tr>
@@ -196,34 +197,29 @@
 <br>
 </div>
 
-<!--<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=cedev935&show_icons=true&theme=radical" alt="cedev935"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&hide=html,css&layout=compact&theme=radical" alt="cedev935"/>
+<!-- <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Heracles7&show_icons=true&theme=radical" alt="Heracles7"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heracles7&hide=html,css&layout=compact&theme=radical" alt="Heracles7"/>
 </p>
 
 <p  align="Right">
 
 </p>
 <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedev935&theme=radical" alt="cedev935"/>
-</p> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heracles7&theme=radical" alt="Heracles7"/>
+</p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/cedev935?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=cedev935&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@cedev935's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heracles7&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/Heracles7?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=Heracles7&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@Heracles7's trophy stats"/>
   </a>
 </div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cedev935&theme=github_dark)
--->
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heracles7&theme=github_dark) -->
 
 ## ⚡ Status
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cedev935&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cedev935&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cedev935&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cedev935&theme=algolia&utcOffset=8)
-
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heracles7&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Heracles7&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heracles7&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heracles7&theme=algolia&utcOffset=8)
